@@ -33,7 +33,7 @@ Task 3 – Platform Practice
 This task included two parts:
 
 Part A: Created an account on HackerRank to practise coding and improve problem-solving skills.
-Part B: Created a Google Form titled “Digital Literacy Awareness Quiz” with five questions.
+Part B: Created a Google Form titled “Digital Literacy Awareness Quiz” with five questions. Its link https://docs.google.com/forms/d/e/1FAIpQLSdl4t5leeMyD2BszBDkgmN7_hacIvjZooKoXjkHa2Z4nbxevw/viewform?usp=publish-editor
 
 Task 4 – Email Etiquette & Social Media Responsibility
 
